@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m **Aniruddha**! (@Aniruddha2701)  
 
-![Profile Image](path_to_your_image.jpg)  
+![Profile Image](profile_pic.jpg)  
 *“Coding is my playground, and building impactful software is my passion!”*
 
 ---
