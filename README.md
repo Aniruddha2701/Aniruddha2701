@@ -8,10 +8,12 @@
 ## 🚀 About Me  
 🌟 I’m a passionate **Web & Software Developer** exploring the endless possibilities of the digital world!  
 👀 Currently diving deep into **React** & **Node.js** — turning coffee ☕ into code every day!  
+🐍 Also expanding my skills by exploring **Python** and working on exciting **OpenCV** projects to bring images and videos to life!
 
 ## 🔧 What I’m Working On  
 - 💡 Building sleek **frontend interfaces** with React  
 - ⚙️ Crafting robust **backend solutions** with Node.js  
+- 📸 Exploring **computer vision** with Python and OpenCV — working on hands-on projects as a learner!  
 - 🤝 Looking to **collaborate** on exciting backend development projects
 
 ## 📫 Let's Connect  
