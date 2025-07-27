@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Aniruddha2701
-- 👀 I’m interested in Web Development and Software Development.
-- 🌱 I’m currently learning Ract and Node js.
-- 💞️ I’m looking to collaborate on Backend development.
-- 📫 How to reach me ...Via Linkedin: https://www.linkedin.com/in/aniruddha-99a56531a or Email me: priyanshumaurya7052@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey there, I’m **Aniruddha**! (@Aniruddha2701)  
 
-<!---
-Aniruddha2701/Aniruddha2701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Image](path_to_your_image.jpg)  
+*“Coding is my playground, and building impactful software is my passion!”*
+
+---
+
+## 🚀 About Me  
+🌟 I’m a passionate **Web & Software Developer** exploring the endless possibilities of the digital world!  
+👀 Currently diving deep into **React** & **Node.js** — turning coffee ☕ into code every day!  
+
+## 🔧 What I’m Working On  
+- 💡 Building sleek **frontend interfaces** with React  
+- ⚙️ Crafting robust **backend solutions** with Node.js  
+- 🤝 Looking to **collaborate** on exciting backend development projects
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-99a56531a)  
+✉️ Email me: priyanshumaurya7052@gmail.com  
+
+---
+
+## 📝 More About Me  
+🔤 **Pronouns:** Your choice! (e.g., he/him, she/her, they/them)  
+⚡ **Fun Fact:** I believe every problem has a beautiful, elegant code solution waiting to be discovered!  
+
+---
+
+Thanks for visiting my GitHub profile! Let’s build something amazing together. ✨  
