@@ -1,9 +1,5 @@
 # 👋 Hey there, I’m **Aniruddha**! (@Aniruddha2701)  
 
-![Profile Image](profile_pic.jpg)  
-*“Coding is my playground, and building impactful software is my passion!”*
-
-# 👋 Hi, I'm Aniruddha Maurya  
 
 🚀 Full Stack Developer | 🤖 AI & Computer Vision Enthusiast  
 
